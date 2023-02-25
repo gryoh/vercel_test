@@ -9,9 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
     return (
         <main className={styles.main}>
-            {/* <Header></Header> */}
-            <div>메인 내용22</div>
-            {/* <Footer></Footer> */}
+            <Header></Header>
+            <div>메인 내용333</div>
+            <Footer></Footer>
         </main>
     );
 }
